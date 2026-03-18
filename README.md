@@ -1,4 +1,5 @@
 # ATTENTION
+Archived. Turns out I don't really know what I am doing. Shocker.
 I did not touch anything from the original repo. I merely did what I need for Helldivers II.
 # arm64-linux-games
 
