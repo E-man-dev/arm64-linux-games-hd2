@@ -1,0 +1,9 @@
+#!/bin/sh
+
+HELLDIVERS_II_PATH=$HOME/.steam/steam/steamapps/common/Helldivers\ 2
+
+cd $HELLDIVERS_II_PATH
+
+export LD_LIBRARY_PATH="lib64"
+
+mono helldivers2.exe
